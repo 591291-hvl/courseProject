@@ -1,0 +1,5 @@
+data/*
+notebooks/logs
+.tar
+.nii.gz
+.npz
